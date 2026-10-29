@@ -15,4 +15,5 @@ return [
     'welcome' => 'Welcome to Marsaly',
     'payout_created' => 'A payout of :amount MAD is ready for you',
     'review_received' => 'New review: :rating stars',
+    'support_ticket' => 'New support ticket from a user',
 ];

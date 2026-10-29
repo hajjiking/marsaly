@@ -15,4 +15,5 @@ return [
     'welcome' => 'Bienvenue sur Marsaly',
     'payout_created' => 'Un paiement de :amount MAD est prêt pour vous',
     'review_received' => 'Nouvel avis : :rating étoiles',
+    'support_ticket' => 'Nouveau ticket support d’un utilisateur',
 ];

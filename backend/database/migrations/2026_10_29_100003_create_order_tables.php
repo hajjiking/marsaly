@@ -102,6 +102,7 @@ return new class extends Migration
             $table->decimal('fee', 10, 2)->default(0);
             $table->decimal('tip', 10, 2)->default(0);
             $table->string('decline_reason')->nullable();
+            $table->string('proof_photo_path')->nullable();
             $table->timestamps();
             $table->index(['driver_id', 'state']);
         });

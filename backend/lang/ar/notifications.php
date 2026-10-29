@@ -15,4 +15,5 @@ return [
     'welcome' => 'مرحباً بك في مرسالي',
     'payout_created' => 'دفعة مستحقة لك بقيمة :amount درهم',
     'review_received' => 'تقييم جديد: :rating نجوم',
+    'support_ticket' => 'تذكرة دعم جديدة من مستخدم',
 ];
